@@ -17,6 +17,7 @@ public class MyClass {
         // constant are things that does not change (final infront), only can be assign a value once.
         // can not add a string to a double (data type)
         // when using constant use all caps and separate them with underscores
+        // always use constant to give floating number a descriptive name
 
         final double UK_VAT_RATE = 0.20;
 

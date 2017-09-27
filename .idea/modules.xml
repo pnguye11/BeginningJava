@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/javapractice/javapractice.iml" filepath="$PROJECT_DIR$/javapractice/javapractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodswithinputsandoutputs/methodswithinputsandoutputs.iml" filepath="$PROJECT_DIR$/methodswithinputsandoutputs/methodswithinputsandoutputs.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,1 @@
-include ':app', ':javapractice', ':methods'
+include ':app', ':javapractice', ':methods', ':methodswithinputsandoutputs'

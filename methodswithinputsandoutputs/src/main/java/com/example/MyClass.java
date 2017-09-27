@@ -42,7 +42,7 @@ public class MyClass {
 
 
     // method with no output use "void" in front of the method
-    // when want to have output use "int for integer, string for string, and double for decimal" in front of the method
+    // when want to have output use "int for integer, string for string, and double for decimal" in front of the methodandro
 
     public static int getMilk(int nrOfCartonsToBuy, int startingAmount) {
 

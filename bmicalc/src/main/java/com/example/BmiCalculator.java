@@ -10,18 +10,18 @@ public class BmiCalculator {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("What is your height in inches?");
-        int yourHeight = scanner.nextInt();
+        double yourHeight = scanner.nextDouble();
         System.out.println("What is your weight in pounds");
-        int yourWeight = scanner.nextInt();
+        double yourWeight = scanner.nextDouble();
 
         double BMI = calculate(yourWeight,yourHeight);
-        System.out.println(BMI);
+//        System.out.println(BMI);
 
 
     }
 
 
-    public static double calculate(int yourWeight, int yourHeight) {
+    public static double calculate(double yourWeight, double yourHeight) {
 
         yourWeight = (yourWeight * 703);
         yourHeight = (yourHeight * yourHeight);

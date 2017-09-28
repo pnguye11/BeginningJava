@@ -1,1 +1,1 @@
-include ':app', ':javapractice', ':methods', ':methodswithinputsandoutputs', ':couldthisbelove', ':couuldthisbelove', ':couldthisbelove2'
+include ':app', ':javapractice', ':methods', ':methodswithinputsandoutputs', ':couldthisbelove', ':couuldthisbelove', ':couldthisbelove2', ':bmi'
